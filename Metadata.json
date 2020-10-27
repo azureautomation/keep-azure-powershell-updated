@@ -1,0 +1,20 @@
+{
+    "Author": "Evan Basalik",
+    "ContentSize": 6160,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/keep-azure-powershell-updated/master/AzurePowerShellUpdater.ps1",
+    "DownloadCount": 1153,
+    "Id": "Keep-Azure-PowerShell-478ab7ed",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 459,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-4-12T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "The Azure PowerShell cmdlets\u00a0are updated\u00a0frequently to keep up with the frequent changes in Microsoft Azure. If you don't install updates, you won't be able to use the newest functionality. This script will create a scheduled task that checks daily  for a new release of Azure Pow",
+    "Title": "Keep Azure PowerShell updated",
+    "UpdatedDate": "2015-12-3T00:00:00",
+    "Url": "https://github.com/azureautomation/keep-azure-powershell-updated",
+    "UserTags": "Microsoft Azure"
+}
